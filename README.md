@@ -109,6 +109,6 @@ Special thanks to the geotechnical engineering and data science communities for 
 
 ## 📬 Contact
 
-For questions, feedback, or contributions, contact: **[youremail@gmail.com](mailto:youremail@gmail.com)**
+For questions, feedback, or contributions, contact: **[rhudwill@gmail.com](mailto:rhudwill@gmail.com)**
 
 ```
